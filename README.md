@@ -15,3 +15,8 @@ Here we will post all the MD files for books
 1. Download obsidian
 2. Insert the Md files in obsidian
 3. Read from the book and summary for Max performance ( Summary i post will just highlight the important parts and remove overhead like samples and useless Fat )
+
+---
+# Remarks:
+- Windows system programming part 1 has chapters 10-11-12 missing so follow the github so when they release
+- ANSI C has last chapter not fully Covered so follow the github so when they release
