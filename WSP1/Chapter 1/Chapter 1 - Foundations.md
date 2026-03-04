@@ -5,7 +5,7 @@ share_updated: 2026-02-08T17:23:23+02:00
 
 ---
 layout: default
-title: Chapter 1 - Foundations
+title: Chapter-1-Foundations
 ---
 
 ### ==Windows Architecture Overview 
