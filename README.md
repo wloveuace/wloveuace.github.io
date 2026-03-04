@@ -25,4 +25,3 @@ Here we will post all the MD files for books \
 # Remarks:
 - Windows system programming part 1 has chapters 10-11-12 missing
 - ~~ANSI C has last chapter not fully Covered~~ | Completed ( 3/2/2026 ) ✅
-- Site has been created and md files can be read from there (3/4/2026)
