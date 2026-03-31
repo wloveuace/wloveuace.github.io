@@ -24,7 +24,7 @@ Here we will post all the MD files for books \
 - Windows system programming part 1 , Chapter 11 (3/17/2026)
 - Beej’s Guide to Network Programming Completed (3/18/2026)
 - Windows system programming part 1 , chapter 11 *part 2* (3/24/2026)
-- Exams week , ** WE HAD TO STOP HERE ** 25/3/2026 - 31/3/2026
+- Exams week , **No Content** 25/3/2026 - 31/3/2026
 - Windows system programming part 1 , chapter 11 *part 3* (1/4/2026) 
 ---
 # Instructions
