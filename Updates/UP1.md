@@ -4,3 +4,5 @@ Windows programming part 2 , Modern C , CSAPP, SICP , All upcommings will follow
 
 Preview:
 <img width="636" height="593" alt="image" src="https://github.com/user-attachments/assets/aeaaf929-5cab-4530-9f5a-adc594341fba" />
+
+Made new terms *italic* and highlighted to make them easier to reach 
